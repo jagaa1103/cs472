@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header.navbar {
+    background-color: #81F7F3;
+}
+
+.navbar {
+    background-color: #0B4C5F;
+    padding: 0;
+}
+
+.navbar > ul > li {
+    border-right: 1px solid black;
+}
+
+.navbar > ul > li > a {
+    color: white;
+}
+
+#column1, #column2, #column3 {
+    padding: 10px;
+    height: 300px;
+}
+
+#column1 {
+    background-color: #aaa;
+}
+
+#column2 {
+    background-color: #bbb;
+}
+
+#column3 {
+    background-color: #ccc;
+}
+
+footer.navbar h2 {
+    color: white;
+}
