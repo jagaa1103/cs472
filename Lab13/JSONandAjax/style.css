@@ -1,0 +1,55 @@
+/* .container {
+    position:absolute;
+    left:50px;
+    right:50px;
+    bottom:10px;
+    top:10px;
+    border:none;
+    display:inline-flex;
+}
+.column1 {
+    height:100px;
+    width:30%;
+    padding:10px;
+}
+.column2 {
+    height:100px;
+    width:30%;
+    padding:10px;
+}
+.column3 {
+    height:100px;
+    width:30%;
+    padding:10px;
+}
+span {
+    margin-left:20px;
+} */
+
+
+
+.userField {
+    width: 100%;
+    margin:20px;
+    display: inline-flex;
+}
+.inputItem {
+    margin: 10px;
+    /* width: 10%; */
+}
+
+.postField {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.postTitle {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.postBody {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
